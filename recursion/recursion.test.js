@@ -89,7 +89,7 @@ function permutations(n,k){
   
 };
 
-//this one is really hard and couldn't do it 
+//this one is really hard and couldn't do it.
 
 
 
